@@ -1,0 +1,13 @@
+server:
+  port: 2020
+
+#  01e5a427b09c86e8e893
+#  3fb7b8b9a8e6c0514a2f3b4a3d3af088a3ed55eb
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: 01e5a427b09c86e8e893
+            clientSecret: c48d30823ddaaa4419d037d31373fcd8e1d48e92
